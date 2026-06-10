@@ -1,10 +1,10 @@
-y  = int(input())
+year = int(input())
 
 while True:
-    y =+ 1
-    
-    s = str(y)
+    year += 1
+
+    s = str(year)
 
     if len(s) == len(set(s)):
-        print(y)
-    break
+        print(year)
+        break

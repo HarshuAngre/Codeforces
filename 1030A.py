@@ -5,4 +5,3 @@ if 1 in s:
     print('HARD')
 else:
     print('EASY')
-    
